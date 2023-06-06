@@ -1,7 +1,7 @@
 # Smart-Classroom-Environment-Management-System  
 *Project for Hackster Contest - Smart Campus 2023 : Technologies for a more sustainable campus lifestyle*    
   
-<img src="/Images/Hackster-Project-Cover-Image" height="250" >
+<img src="/Images/Hackster-Project-Cover-Image.png" height="250" >
   
 
 IoT based system for keeping classroom environment healthy, safe and comfortable to help to effective teaching and learning.    
@@ -14,7 +14,7 @@ IoT based system for keeping classroom environment healthy, safe and comfortable
 - DS105 Dust Sensor.  
 </br>
 
-<img src="/Images/eedu-kit.png" height="250" >  
+<img src="/Images/eedu-kit.jpg" height="250" >  
 
 #### 💻 Software  
 - Arduino IoT Cloud  
