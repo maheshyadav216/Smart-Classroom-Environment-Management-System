@@ -28,7 +28,7 @@ IoT based system for keeping classroom environment healthy, safe and comfortable
 
 📕 **YouTube Video Link**  
 
-▶️ Project-CapSense-based-Smart-Assistive-Remote-for-Disabled-Peoples - 🔗 https://www.youtube.com/ 
+▶️ Smart-Classroom-Environment-Management-System - 🔗 https://www.youtube.com/ 
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
